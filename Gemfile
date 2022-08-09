@@ -7,7 +7,7 @@ DECIDIM_VERSION = 'release/0.24-stable'
 gem "decidim", git: "https://github.com/decidim/decidim", branch: DECIDIM_VERSION
 gem "decidim-cookies", path: "."
 
-gem "bootsnap", "~> 1.3"
+gem "bootsnap", "~> 1.4"
 gem "deepl-rb"
 
 gem "puma"
