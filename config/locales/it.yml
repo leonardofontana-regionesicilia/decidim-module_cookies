@@ -14,7 +14,7 @@ it:
         consent_notice:
           description: 'Raccogliamo ed elaboriamo le tue informazioni personali per quanto segue
             scopi: {purposes}.'
-          learn_more: Learn more
+          learn_more: Scopri di più
         decidim:
           description: Consente di verificare se l'utente ha accettato i cookie
         decidim_session:
