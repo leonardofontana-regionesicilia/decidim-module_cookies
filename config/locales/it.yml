@@ -1,0 +1,40 @@
+---
+it:
+  decidim:
+    components:
+      cookies:
+        accept: Accetta tutto
+        analytics:
+          description: Permette il tracciamento per migliorare l'esperienza dell'utente
+        consent_modal:
+          description: Questa finestra dà l'opportunità di filtrare i cookie desiderati.
+          privacy_policy:
+            name: politica sulla privacy
+            text: Per saperne di più, puoi leggere la nostra {privacyPolicy}.
+        consent_notice:
+          description: 'Raccogliamo ed elaboriamo le tue informazioni personali per quanto segue
+            scopi: {purposes}.'
+          learn_more: Learn more
+        decidim:
+          description: Consente di verificare se l'utente ha accettato i cookie
+        decidim_session:
+          description: Consente di mantenere attiva la sessione utente per un tempo limitato.
+            È necessario per migliorare l'esperienza dell'utente su Decidim
+        decline: Rifiuta
+        matomo:
+          description: Permette il tracciamento per migliorare l'esperienza dell'utente
+        name: Cookies
+        purposes:
+          ads: Annunci pubblicitari
+          analytics: Analytics
+          checking: Verifica l'accettazione dell'utente
+          security: Sicurezza
+          session: Sessione
+          tracking: Tracciamento
+  layouts:
+    decidim:
+      footer:
+        revoke_cookies: Revocare l'accettazione dei cookie
+      user_menu:
+        conversations: Conversazioni
+        notifications: Notifiche
